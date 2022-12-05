@@ -37,7 +37,7 @@ export const exampleRouter = router({
   }),
   getAllMinters: publicProcedure.query(async () => {
     const chain = EvmChain.FUJI;
-    const address = "0xD1B87CCe7f9FA272c6643Fa89085F135A2AbB234";
+    const address = "0x9a76eA2C056B6Bee5A1179BBece77D28FceE48C4";
 
     if (!Moralis.Core.isStarted) {
       await Moralis.start({ apiKey: process.env.MORALIS_SECRET });
