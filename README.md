@@ -1,3 +1,6 @@
+# About this
+This is a test application for the [#42Network TalentLayer Onboarding]https://twitter.com/TalentLayer/status/1599776341943283713 to display in somewhat all the mints happening on talentlayer avalanch testnet.
+
 # Create T3 App
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
